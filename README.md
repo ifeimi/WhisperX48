@@ -27,3 +27,4 @@ This project is released under the MIT license. See [LICENSE](https://github.com
 \
 本说明文档的最后更新时间为 2023-03-07。\
 This README file was last modified on 2023-03-07. 
+![GitHub](https://img.shields.io/github/license/ifeimi/WhisperX48)
