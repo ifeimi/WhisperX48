@@ -23,7 +23,7 @@ This script relies on [whisperx](https://github.com/m-bain/whisperX), which prov
 \
 Part of this code was referenced from [N46Whisper](https://github.com/Ayanaminn/N46Whisper) project under [MIT license](https://github.com/ifeimi/WhisperX48/blob/main/LICENSE). Modifications were made to incorporate the usage of [whisperx](https://github.com/m-bain/whisperX).  
 \
-This project is released under the MIT license. See [LICENSE](https://github.com/ifeimi/WhisperX48/blob/main/LICENSE) for further details.　　
+This project is released under the MIT license. See [LICENSE](https://github.com/ifeimi/WhisperX48/blob/main/LICENSE) for further details.\
 \
-本说明文档的最后更新时间为 2023-03-07。
+本说明文档的最后更新时间为 2023-03-07。\
 This README file was last modified on 2023-03-07. 
