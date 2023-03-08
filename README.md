@@ -12,10 +12,11 @@
 　　
 　　
 ## 参与 Contribute
-Right now I'm adding python usage of some other whisper-based tools, whisperX and stable-whisper for example, in order to generate more accurate timestamps. \
-Split sentence when it is too long. \ 
+Right now I'm adding python usage of some other whisper-based tools, whisperX and stable-whisper for example, in order to generate more accurate timestamps.  
 \
-I modify this project strongly according to my demands. But feel free to submit issues or directly contact me if you have any suggestions. I also strongly recommend you to contribute to the "original" [N46Whisper](https://github.com/Ayanaminn/N46Whisper) project as well. \
+Split sentence when it is too long.  
+\
+I modify this project strongly according to my demands. But feel free to submit issues or directly contact me if you have any suggestions. I also strongly recommend you to contribute to the "original" [N46Whisper](https://github.com/Ayanaminn/N46Whisper) project as well. 
   
 ## 联系和帮助 Contact and Support
 　　
