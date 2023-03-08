@@ -2,7 +2,8 @@
 　　
 　　
 ## 云端运行 Working on Google Colab
-　　
+
+This project is deployed as a notebook on Google Colab, [click to open](https://colab.research.google.com/github/ifeimi/WhisperX48/blob/main/stable-ts.ipynb). 　　
 　　
 　　
 ## 本地运行 Working locally
